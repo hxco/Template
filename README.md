@@ -4,6 +4,8 @@
 # Template
 > HXCO General Template Is A HTML Single Page That Used By [@HXCO](https://github.com/hxco) Widely During Publishing Web Services.
 
+Demo Site: [https://template.hxco.de](https://template.hxco.de)
+
 ## Why HXCO Template?
  - **Easy to use** - You will only need to download the whole repo [here](https://github.com/hxco/Template/archive/master.zip) or clone it to your server by using `git clone https://github.com/hxco/template` then modify the words inside sightly, then it will be ready to release!
 
