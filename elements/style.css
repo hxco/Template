@@ -43,34 +43,8 @@ body {
   color: red;
 }
 
-.material-icons {
-  vertical-align: middle;
-}
-
 .https {
   color: green;
-}
-
-/* .result {
-  color: #0bf;
-  text-decoration: underline;
-} */
-
-.details {
-  font-size: 20px;
-}
-
-.qrcode {
-  width: 50%;
-  height: 50%;
-}
-
-.reminders {
-  font-size: 20px;
-}
-
-.narrow {
-  line-height: 10px;
 }
 
 .infos {
