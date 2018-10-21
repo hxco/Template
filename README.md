@@ -24,4 +24,4 @@ Great thanks to [@metowolf](https://github.com/metowolf). This project is under 
 And I would also thanks [@Dreamer-Paul](https://github.com/dreamer-paul), and every one in [@HXCO](https;//hxco.de).
 
 
-This project is released under the [MIT License](https://github.com/hxco/Template/blob/master/LICENSE). [Tech HXCO 2018](https://github.com/hxco) All Rights Reserved.
+> This project is released under the [MIT License](https://github.com/hxco/Template/blob/master/LICENSE). [Tech HXCO 2018](https://github.com/hxco) All Rights Reserved.
