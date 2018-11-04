@@ -13,7 +13,7 @@ body {
   width: 100%;
   display: table;
   font-weight: 400;
-  font-family: 'Merriweather', serif;
+  font-family: 'Merriweather', -apple-system, system-ui, BlinkMacSystemFont, "Segoe UI", Roboto, "PingFang SC", "Hiragino Sans GB", "Microsoft YaHei", "Helvetica Neue", sans-serif;
   width: 100%;
   height: 100%;
 }
