@@ -2,7 +2,7 @@
 
 
 # Template
-> HXCO General Template Is A HTML Single Page That Used By [@HXCO](https://github.com/hxco) Widely During Publishing Web Services.
+> HXCO General Template Is A HTML Single Page That Used By [@HXCO](https://github.com/hxco) Widely Where Web Services Are Published.
 
 Demo Site: [https://template.hxco.de](https://template.hxco.de)
 
