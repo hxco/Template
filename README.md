@@ -11,9 +11,9 @@ Demo Site: [https://template.hxco.de](https://template.hxco.de)
 
 - **Muitiple Useage** - When you need to create a notification page, especially when in a rush, or you need to park a domain / subdomain for future useage, you can even `wget https://raw.githubusercontent.com/hxco/Template/master/index.html` then spend only 1 minute on modifying. Again, it will be ready to release!
 
-- **Excellent performance** - We keep nearly everything on CDN (Content Delivery Network), this includes [jsDelivr](https://jsdelivr.com) and [Google Fonts Build-in CDN](https://font.google.com). For our own `Style.CSS` file, we simply put it on [GitHub Pages](https://pages.github.com), but it still have a good overall speed. So generally, HXCO Gerneral Template can have excellent performance around the globe.
+- **Excellent performance** - We keep nearly everything on CDN (Content Delivery Network), this includes [jsDelivr](https://jsdelivr.com) and [Google Fonts Build-in CDN](https://font.google.com). For our own `Style.CSS` file, we simply put it on [GitHub Pages](https://pages.github.com), but it still have a overall good speed. So generally, HXCO Gerneral Template can have excellent performance around the globe.
 
-- **Continuous maintenance** - According to our fantastic cooperation mode inside HXCO, this project as our website interface, will get maintained oftenly. We would strongly recommend you keep how we import the `Style.CSS`, which looks like this:
+- **Continuous maintenance** - According to our fantastic cooperation mode inside HXCO, this project as our website interface, will get maintained frequently. We would strongly recommend you keep how we import the `Style.CSS`, which looks like this:
 
 ```    
     <!-- Preload Style.css -->
