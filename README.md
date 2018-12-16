@@ -4,7 +4,7 @@
 # Template
 > HXCO General Template Is A HTML Single Page That Used By [@HXCO](https://github.com/hxco) Widely Where Web Services Are Published.
 
-Demo Site: [https://template.hxco.de](https://template.hxco.de)
+Demo Site: [https://template.hxco.org](https://template.hxco.org)
 
 ## Why HXCO Template?
  - **Easy to use** - You will only need to download the whole repo [here](https://github.com/hxco/Template/archive/master.zip) or clone it to your server by using `git clone https://github.com/hxco/template` then modify the words inside sightly, then it will be ready to release!
@@ -17,8 +17,8 @@ Demo Site: [https://template.hxco.de](https://template.hxco.de)
 
 ```    
     <!-- Preload Style.css -->
-    <link href="https://template.hxco.de/style.min.css" rel="preload" as="style">
-    <link href="https://template.hxco.de/style.min.css" rel="stylesheet">
+    <link href="https://template.hxco.org/style.min.css" rel="preload" as="style">
+    <link href="https://template.hxco.org/style.min.css" rel="stylesheet">
 ```
 
 This will make your template always the same as our template. We will continue to improve the user interface and apply it to your website once it has changed. We will definitely increase the CDN option of `Style.CSS` to provide a better experience when loading, especially for users in China.
