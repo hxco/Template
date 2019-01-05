@@ -39,9 +39,9 @@ wget https://hxis.me/template -O index.html
 This will make your template always the same as our template. We will continue to improve the user interface and apply it to your website once it has changed. We will definitely increase the CDN option of `Style.CSS` to provide a better experience when loading, especially for users in China.
 
 ## Credit
-Great thanks to [@metowolf](https://github.com/metowolf). This project is under the inspiration of his [METO API +](https://api.i-meto.com).
+Great thanks to [@metowolf](https://github.com/metowolf). This project is under the inspiration of his [METO API +](https://api.i-meto.com) (now it's https://api.i-meto.com.cache.hxco.org).
 
-And I would also thanks [@Dreamer-Paul](https://github.com/dreamer-paul), and every one in [@HXCO](https;//hxco.de).
+And I would also thanks [@Dreamer-Paul](https://github.com/dreamer-paul), and every one in [@HXCO](https://hxco.org).
 
 
 > This project is released under the [MIT License](https://github.com/hxco/Template/blob/master/LICENSE). [Tech HXCO 2018](https://github.com/hxco) All Rights Reserved.
