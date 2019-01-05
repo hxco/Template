@@ -20,6 +20,29 @@ Get your site environment ready (i.e. nginx config), then -
 ```
 wget https://hxis.me/template -O index.html
 ```
+<details><summary>What's next?!</summary>
+<p>
+```bash
+C:\Users\imhx>wget https://hxis.me/template -O index.html
+--2019-01-05 15:31:59--  https://hxis.me/template
+Resolving hxis.me (hxis.me)... 104.24.127.157, 104.24.126.157
+Connecting to hxis.me (hxis.me)|104.24.127.157|:443... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://raw.githubusercontent.com/hxco/Template/master/index.html [following]
+--2019-01-05 15:32:00--  https://raw.githubusercontent.com/hxco/Template/master/index.html
+Resolving raw.githubusercontent.com (raw.githubusercontent.com)... 151.101.108.133
+Connecting to raw.githubusercontent.com (raw.githubusercontent.com)|151.101.108.133|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 2536 (2.5K) [text/plain]
+Saving to: 'index.html'
+
+index.html                       100%[========================================================>]   2.48K  --.-KB/s    in 0.006s
+
+2019-01-05 15:32:01 (407 KB/s) - 'index.html' saved [2536/2536]
+```
+</p>
+</details>
+
 
 ## Why HXCO Template?
  - **Easy to use** - You will only need to download the whole repo [here](https://github.com/hxco/Template/archive/master.zip) or clone it to your server by using `git clone https://github.com/hxco/template` then modify the words inside sightly, then it will be ready to release!
