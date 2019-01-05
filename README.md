@@ -20,7 +20,7 @@ Get your site environment ready (i.e. nginx config), then -
 ```
 wget https://hxis.me/template -O index.html
 ```
-<details><summary>What's next?! </summary>
+<details><summary><strong>What's next?!</strong></summary>
 <p>
 
 ```bash
