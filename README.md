@@ -6,15 +6,15 @@
 
 Demo Site: [https://template.hxco.org](https://template.hxco.org)
 
-# Installation
+## Installation
 
-## General Way
+### General Way
 
 ```
 git clone https://github.com/hxco/Template.git
 ```
 
-## Quickest Way
+### Quickest Way
 
 Get your site environment ready (i.e. nginx config), then -
 ```
